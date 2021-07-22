@@ -1,0 +1,16 @@
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\bin\Debug\net5.0\DigitalInnovationOne.Series.exe
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\bin\Debug\net5.0\DigitalInnovationOne.Series.deps.json
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\bin\Debug\net5.0\DigitalInnovationOne.Series.runtimeconfig.json
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\bin\Debug\net5.0\DigitalInnovationOne.Series.runtimeconfig.dev.json
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\bin\Debug\net5.0\DigitalInnovationOne.Series.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\bin\Debug\net5.0\ref\DigitalInnovationOne.Series.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\bin\Debug\net5.0\DigitalInnovationOne.Series.pdb
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.csproj.AssemblyReference.cache
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.AssemblyInfoInputs.cache
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.AssemblyInfo.cs
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.csproj.CoreCompileInputs.cache
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\ref\DigitalInnovationOne.Series.dll
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.pdb
+Z:\DIO\BootCamp .NET Fundamentals\Criando um APP simples de cadastro de séries em .NET\DigitalInnovationOne.Series\obj\Debug\net5.0\DigitalInnovationOne.Series.genruntimeconfig.cache
